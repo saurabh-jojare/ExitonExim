@@ -1,0 +1,69 @@
+body {
+    background-color: #f8f9fa;
+}
+
+/* .navbar {
+    background-color: #28a745;
+}
+*/
+.navbar-brand,
+.nav-link {
+    color: rgb(246, 242, 242) !important;
+} 
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.footer {
+    background-color: #28a745;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+
+.topNav{
+    height:auto;
+    width:100%;
+    color: #f8faf8;
+    padding-top:15px!important;
+  }
+
+  .green-b{
+    background-color: rgba(11, 117, 7, 0.84);
+  }
+
+  .agriImportExportLogo{
+    display: flex;  
+  }
+
+  .logoText{
+    align-items: start!important;
+  }
+
+  .logoSize{
+    height:64px;
+    width:150px;
+    margin:5px!important;
+  }
+  .bigFont{
+    font-size: 28px;
+  }
+  .boldText, .bigFont{
+    font-weight: 600;
+  }
+
+  .center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
